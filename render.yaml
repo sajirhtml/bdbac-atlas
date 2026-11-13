@@ -1,0 +1,19 @@
+# Render blueprint for the API (free plan). Frontend goes on Vercel/Netlify/Cloudflare Pages.
+services:
+  - type: web
+    name: bdbac-api
+    runtime: node
+    rootDir: server
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: MONGODB_URI
+        sync: false          # paste your Atlas connection string in the Render dashboard
+      - key: MONGODB_DB
+        value: bdbac
+      - key: CORS_ORIGIN
+        sync: false          # your frontend URL, e.g. https://bdbac.vercel.app
+      - key: RELEASE_NAME
+        value: v0.1.0

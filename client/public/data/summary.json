@@ -1,0 +1,2193 @@
+{
+ "release": {
+  "version": "0.0.0-MOCK-DATA",
+  "generated_at": "2026-11-07T08:58:02+00:00",
+  "ncbi_retrieved_on": "2026-10-01",
+  "vocab_version": "v0.1-starter",
+  "n_samples": 570,
+  "n_projects": 6
+ },
+ "totals": {
+  "samples": 570,
+  "with_reads": 288,
+  "with_assembly": 222,
+  "sequenced": 336,
+  "isolate_records": 234,
+  "usable": 277,
+  "with_ast": 2,
+  "with_publication": 64,
+  "with_district": 134,
+  "with_host": 256,
+  "with_niche": 343,
+  "with_year": 544,
+  "projects": 6
+ },
+ "organisms": [
+  {
+   "slug": "escherichia-coli",
+   "group": "Escherichia coli",
+   "name": "Escherichia coli",
+   "taxid": 562,
+   "color": "#2E6DB4",
+   "blurb": "A common gut bacterium. Some lineages cause urinary-tract and diarrhoeal disease, and ESBL-producing strains are a major resistance concern.",
+   "counts": {
+    "samples": 140,
+    "with_reads": 116,
+    "with_assembly": 91,
+    "sequenced": 133,
+    "isolate_records": 7,
+    "usable": 113,
+    "with_ast": 0,
+    "with_publication": 31,
+    "with_district": 29,
+    "with_host": 88,
+    "with_niche": 121,
+    "with_year": 137
+   },
+   "by_year": [
+    {
+     "k": 2001,
+     "n": 6
+    },
+    {
+     "k": 2002,
+     "n": 7
+    },
+    {
+     "k": 2003,
+     "n": 8
+    },
+    {
+     "k": 2004,
+     "n": 9
+    },
+    {
+     "k": 2005,
+     "n": 6
+    },
+    {
+     "k": 2006,
+     "n": 8
+    },
+    {
+     "k": 2007,
+     "n": 12
+    },
+    {
+     "k": 2008,
+     "n": 9
+    },
+    {
+     "k": 2009,
+     "n": 7
+    },
+    {
+     "k": 2010,
+     "n": 2
+    },
+    {
+     "k": 2011,
+     "n": 5
+    },
+    {
+     "k": 2012,
+     "n": 4
+    },
+    {
+     "k": 2013,
+     "n": 6
+    },
+    {
+     "k": 2014,
+     "n": 3
+    },
+    {
+     "k": 2015,
+     "n": 4
+    },
+    {
+     "k": 2016,
+     "n": 5
+    },
+    {
+     "k": 2017,
+     "n": 7
+    },
+    {
+     "k": 2018,
+     "n": 2
+    },
+    {
+     "k": 2019,
+     "n": 2
+    },
+    {
+     "k": 2020,
+     "n": 10
+    },
+    {
+     "k": 2021,
+     "n": 3
+    },
+    {
+     "k": 2022,
+     "n": 6
+    },
+    {
+     "k": 2023,
+     "n": 3
+    },
+    {
+     "k": 2024,
+     "n": 3
+    }
+   ],
+   "by_niche": [
+    {
+     "k": "Livestock",
+     "n": 33
+    },
+    {
+     "k": "Environment",
+     "n": 33
+    },
+    {
+     "k": "Human",
+     "n": 31
+    },
+    {
+     "k": "Food",
+     "n": 24
+    },
+    {
+     "k": "Unknown",
+     "n": 19
+    }
+   ],
+   "by_division": [
+    {
+     "k": "Barishal",
+     "n": 10
+    },
+    {
+     "k": "Sylhet",
+     "n": 7
+    },
+    {
+     "k": "Khulna",
+     "n": 5
+    },
+    {
+     "k": "Mymensingh",
+     "n": 4
+    },
+    {
+     "k": "Chattogram",
+     "n": 2
+    },
+    {
+     "k": "Dhaka",
+     "n": 1
+    }
+   ],
+   "by_platform": [
+    {
+     "k": "ILLUMINA",
+     "n": 83
+    },
+    {
+     "k": "OXFORD_NANOPORE",
+     "n": 45
+    },
+    {
+     "k": "PACBIO_SMRT",
+     "n": 23
+    }
+   ],
+   "by_material": [
+    {
+     "k": "cloacal swab",
+     "n": 33
+    },
+    {
+     "k": "water",
+     "n": 33
+    },
+    {
+     "k": "blood",
+     "n": 31
+    },
+    {
+     "k": "meat/carcass",
+     "n": 24
+    }
+   ],
+   "by_record_type": [
+    {
+     "k": "sequenced",
+     "n": 133
+    },
+    {
+     "k": "isolate_record",
+     "n": 7
+    }
+   ],
+   "top_projects": [
+    {
+     "accession": "PRJNA962904",
+     "title": "Mock project PRJNA962904",
+     "n": 31
+    },
+    {
+     "accession": "PRJEB2000",
+     "title": "",
+     "n": 27
+    },
+    {
+     "accession": "PRJNA714521",
+     "title": "Mock project PRJNA714521",
+     "n": 25
+    },
+    {
+     "accession": "PRJNA1130082",
+     "title": "Mock project PRJNA1130082",
+     "n": 22
+    },
+    {
+     "accession": "PRJNA1121190",
+     "title": "Mock project PRJNA1121190",
+     "n": 18
+    },
+    {
+     "accession": "PRJNA845975",
+     "title": "Mock project PRJNA845975",
+     "n": 13
+    }
+   ]
+  },
+  {
+   "slug": "klebsiella-pneumoniae",
+   "group": "Klebsiella pneumoniae",
+   "name": "Klebsiella pneumoniae",
+   "taxid": 573,
+   "color": "#1FA39A",
+   "blurb": "An opportunistic pathogen behind many hospital-acquired infections. Carbapenem-resistant lineages are a global concern.",
+   "counts": {
+    "samples": 70,
+    "with_reads": 54,
+    "with_assembly": 40,
+    "sequenced": 65,
+    "isolate_records": 5,
+    "usable": 56,
+    "with_ast": 0,
+    "with_publication": 16,
+    "with_district": 15,
+    "with_host": 45,
+    "with_niche": 63,
+    "with_year": 68
+   },
+   "by_year": [
+    {
+     "k": 2001,
+     "n": 3
+    },
+    {
+     "k": 2002,
+     "n": 6
+    },
+    {
+     "k": 2003,
+     "n": 2
+    },
+    {
+     "k": 2004,
+     "n": 4
+    },
+    {
+     "k": 2005,
+     "n": 5
+    },
+    {
+     "k": 2006,
+     "n": 5
+    },
+    {
+     "k": 2007,
+     "n": 3
+    },
+    {
+     "k": 2008,
+     "n": 6
+    },
+    {
+     "k": 2010,
+     "n": 2
+    },
+    {
+     "k": 2011,
+     "n": 1
+    },
+    {
+     "k": 2012,
+     "n": 1
+    },
+    {
+     "k": 2013,
+     "n": 2
+    },
+    {
+     "k": 2014,
+     "n": 2
+    },
+    {
+     "k": 2015,
+     "n": 4
+    },
+    {
+     "k": 2016,
+     "n": 4
+    },
+    {
+     "k": 2017,
+     "n": 2
+    },
+    {
+     "k": 2018,
+     "n": 1
+    },
+    {
+     "k": 2019,
+     "n": 4
+    },
+    {
+     "k": 2020,
+     "n": 2
+    },
+    {
+     "k": 2021,
+     "n": 5
+    },
+    {
+     "k": 2022,
+     "n": 1
+    },
+    {
+     "k": 2023,
+     "n": 1
+    },
+    {
+     "k": 2024,
+     "n": 2
+    }
+   ],
+   "by_niche": [
+    {
+     "k": "Livestock",
+     "n": 18
+    },
+    {
+     "k": "Environment",
+     "n": 18
+    },
+    {
+     "k": "Food",
+     "n": 14
+    },
+    {
+     "k": "Human",
+     "n": 13
+    },
+    {
+     "k": "Unknown",
+     "n": 7
+    }
+   ],
+   "by_division": [
+    {
+     "k": "Chattogram",
+     "n": 5
+    },
+    {
+     "k": "Dhaka",
+     "n": 3
+    },
+    {
+     "k": "Sylhet",
+     "n": 3
+    },
+    {
+     "k": "Mymensingh",
+     "n": 2
+    },
+    {
+     "k": "Barishal",
+     "n": 1
+    },
+    {
+     "k": "Khulna",
+     "n": 1
+    }
+   ],
+   "by_platform": [
+    {
+     "k": "ILLUMINA",
+     "n": 37
+    },
+    {
+     "k": "PACBIO_SMRT",
+     "n": 18
+    },
+    {
+     "k": "OXFORD_NANOPORE",
+     "n": 17
+    }
+   ],
+   "by_material": [
+    {
+     "k": "cloacal swab",
+     "n": 18
+    },
+    {
+     "k": "water",
+     "n": 18
+    },
+    {
+     "k": "meat/carcass",
+     "n": 14
+    },
+    {
+     "k": "blood",
+     "n": 13
+    }
+   ],
+   "by_record_type": [
+    {
+     "k": "sequenced",
+     "n": 65
+    },
+    {
+     "k": "isolate_record",
+     "n": 5
+    }
+   ],
+   "top_projects": [
+    {
+     "accession": "PRJNA714521",
+     "title": "Mock project PRJNA714521",
+     "n": 19
+    },
+    {
+     "accession": "PRJNA962904",
+     "title": "Mock project PRJNA962904",
+     "n": 16
+    },
+    {
+     "accession": "PRJNA1130082",
+     "title": "Mock project PRJNA1130082",
+     "n": 11
+    },
+    {
+     "accession": "PRJNA845975",
+     "title": "Mock project PRJNA845975",
+     "n": 10
+    },
+    {
+     "accession": "PRJNA1121190",
+     "title": "Mock project PRJNA1121190",
+     "n": 9
+    },
+    {
+     "accession": "PRJEB2000",
+     "title": "",
+     "n": 5
+    }
+   ]
+  },
+  {
+   "slug": "salmonella-typhi",
+   "group": "Salmonella Typhi",
+   "name": "Salmonella Typhi",
+   "taxid": 90370,
+   "color": "#D6456B",
+   "blurb": "The cause of typhoid fever, spread through contaminated food and water.",
+   "counts": {
+    "samples": 40,
+    "with_reads": 31,
+    "with_assembly": 29,
+    "sequenced": 38,
+    "isolate_records": 2,
+    "usable": 28,
+    "with_ast": 0,
+    "with_publication": 7,
+    "with_district": 7,
+    "with_host": 25,
+    "with_niche": 35,
+    "with_year": 35
+   },
+   "by_year": [
+    {
+     "k": 2003,
+     "n": 2
+    },
+    {
+     "k": 2004,
+     "n": 2
+    },
+    {
+     "k": 2005,
+     "n": 2
+    },
+    {
+     "k": 2007,
+     "n": 1
+    },
+    {
+     "k": 2008,
+     "n": 3
+    },
+    {
+     "k": 2010,
+     "n": 3
+    },
+    {
+     "k": 2011,
+     "n": 1
+    },
+    {
+     "k": 2012,
+     "n": 1
+    },
+    {
+     "k": 2014,
+     "n": 1
+    },
+    {
+     "k": 2015,
+     "n": 3
+    },
+    {
+     "k": 2016,
+     "n": 1
+    },
+    {
+     "k": 2017,
+     "n": 2
+    },
+    {
+     "k": 2018,
+     "n": 1
+    },
+    {
+     "k": 2019,
+     "n": 1
+    },
+    {
+     "k": 2020,
+     "n": 1
+    },
+    {
+     "k": 2021,
+     "n": 3
+    },
+    {
+     "k": 2022,
+     "n": 1
+    },
+    {
+     "k": 2023,
+     "n": 3
+    },
+    {
+     "k": 2024,
+     "n": 3
+    }
+   ],
+   "by_niche": [
+    {
+     "k": "Human",
+     "n": 10
+    },
+    {
+     "k": "Environment",
+     "n": 10
+    },
+    {
+     "k": "Food",
+     "n": 9
+    },
+    {
+     "k": "Livestock",
+     "n": 6
+    },
+    {
+     "k": "Unknown",
+     "n": 5
+    }
+   ],
+   "by_division": [
+    {
+     "k": "Dhaka",
+     "n": 2
+    },
+    {
+     "k": "Mymensingh",
+     "n": 2
+    },
+    {
+     "k": "Barishal",
+     "n": 1
+    },
+    {
+     "k": "Sylhet",
+     "n": 1
+    },
+    {
+     "k": "Khulna",
+     "n": 1
+    }
+   ],
+   "by_platform": [
+    {
+     "k": "ILLUMINA",
+     "n": 22
+    },
+    {
+     "k": "OXFORD_NANOPORE",
+     "n": 8
+    },
+    {
+     "k": "PACBIO_SMRT",
+     "n": 7
+    }
+   ],
+   "by_material": [
+    {
+     "k": "blood",
+     "n": 10
+    },
+    {
+     "k": "water",
+     "n": 10
+    },
+    {
+     "k": "meat/carcass",
+     "n": 9
+    },
+    {
+     "k": "cloacal swab",
+     "n": 6
+    }
+   ],
+   "by_record_type": [
+    {
+     "k": "sequenced",
+     "n": 38
+    },
+    {
+     "k": "isolate_record",
+     "n": 2
+    }
+   ],
+   "top_projects": [
+    {
+     "accession": "PRJNA1130082",
+     "title": "Mock project PRJNA1130082",
+     "n": 9
+    },
+    {
+     "accession": "PRJNA962904",
+     "title": "Mock project PRJNA962904",
+     "n": 7
+    },
+    {
+     "accession": "PRJNA845975",
+     "title": "Mock project PRJNA845975",
+     "n": 7
+    },
+    {
+     "accession": "PRJEB2000",
+     "title": "",
+     "n": 7
+    },
+    {
+     "accession": "PRJNA714521",
+     "title": "Mock project PRJNA714521",
+     "n": 6
+    },
+    {
+     "accession": "PRJNA1121190",
+     "title": "Mock project PRJNA1121190",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "slug": "salmonella-enterica",
+   "group": "Salmonella enterica",
+   "name": "Salmonella enterica (non-Typhi)",
+   "taxid": 28901,
+   "color": "#E07A5F",
+   "blurb": "Non-typhoidal serovars that cause gastroenteritis and circulate in poultry and food chains. Typhi has its own page.",
+   "counts": {
+    "samples": 20,
+    "with_reads": 15,
+    "with_assembly": 10,
+    "sequenced": 16,
+    "isolate_records": 4,
+    "usable": 15,
+    "with_ast": 2,
+    "with_publication": 3,
+    "with_district": 4,
+    "with_host": 14,
+    "with_niche": 19,
+    "with_year": 20
+   },
+   "by_year": [
+    {
+     "k": 2004,
+     "n": 1
+    },
+    {
+     "k": 2005,
+     "n": 1
+    },
+    {
+     "k": 2007,
+     "n": 1
+    },
+    {
+     "k": 2008,
+     "n": 2
+    },
+    {
+     "k": 2010,
+     "n": 1
+    },
+    {
+     "k": 2012,
+     "n": 2
+    },
+    {
+     "k": 2016,
+     "n": 1
+    },
+    {
+     "k": 2017,
+     "n": 2
+    },
+    {
+     "k": 2018,
+     "n": 1
+    },
+    {
+     "k": 2021,
+     "n": 4
+    },
+    {
+     "k": 2023,
+     "n": 4
+    }
+   ],
+   "by_niche": [
+    {
+     "k": "Livestock",
+     "n": 7
+    },
+    {
+     "k": "Environment",
+     "n": 5
+    },
+    {
+     "k": "Human",
+     "n": 4
+    },
+    {
+     "k": "Food",
+     "n": 3
+    },
+    {
+     "k": "Unknown",
+     "n": 1
+    }
+   ],
+   "by_division": [
+    {
+     "k": "Dhaka",
+     "n": 2
+    },
+    {
+     "k": "Sylhet",
+     "n": 1
+    },
+    {
+     "k": "Khulna",
+     "n": 1
+    }
+   ],
+   "by_platform": [
+    {
+     "k": "ILLUMINA",
+     "n": 13
+    },
+    {
+     "k": "PACBIO_SMRT",
+     "n": 5
+    },
+    {
+     "k": "OXFORD_NANOPORE",
+     "n": 2
+    }
+   ],
+   "by_material": [
+    {
+     "k": "cloacal swab",
+     "n": 7
+    },
+    {
+     "k": "water",
+     "n": 5
+    },
+    {
+     "k": "blood",
+     "n": 4
+    },
+    {
+     "k": "meat/carcass",
+     "n": 3
+    }
+   ],
+   "by_record_type": [
+    {
+     "k": "sequenced",
+     "n": 16
+    },
+    {
+     "k": "isolate_record",
+     "n": 4
+    }
+   ],
+   "top_projects": [
+    {
+     "accession": "PRJEB2000",
+     "title": "",
+     "n": 5
+    },
+    {
+     "accession": "PRJNA962904",
+     "title": "Mock project PRJNA962904",
+     "n": 3
+    },
+    {
+     "accession": "PRJNA1121190",
+     "title": "Mock project PRJNA1121190",
+     "n": 3
+    },
+    {
+     "accession": "PRJNA1130082",
+     "title": "Mock project PRJNA1130082",
+     "n": 3
+    },
+    {
+     "accession": "PRJNA714521",
+     "title": "Mock project PRJNA714521",
+     "n": 3
+    },
+    {
+     "accession": "PRJNA845975",
+     "title": "Mock project PRJNA845975",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "slug": "acinetobacter-baumannii",
+   "group": "Acinetobacter baumannii",
+   "name": "Acinetobacter baumannii",
+   "taxid": 470,
+   "color": "#7A5CC4",
+   "blurb": "A hospital-associated pathogen known for multidrug resistance.",
+   "counts": {
+    "samples": 8,
+    "with_reads": 5,
+    "with_assembly": 6,
+    "sequenced": 8,
+    "isolate_records": 0,
+    "usable": 4,
+    "with_ast": 0,
+    "with_publication": 0,
+    "with_district": 2,
+    "with_host": 6,
+    "with_niche": 6,
+    "with_year": 6
+   },
+   "by_year": [
+    {
+     "k": 2004,
+     "n": 1
+    },
+    {
+     "k": 2005,
+     "n": 1
+    },
+    {
+     "k": 2012,
+     "n": 1
+    },
+    {
+     "k": 2015,
+     "n": 1
+    },
+    {
+     "k": 2024,
+     "n": 2
+    }
+   ],
+   "by_niche": [
+    {
+     "k": "Human",
+     "n": 3
+    },
+    {
+     "k": "Unknown",
+     "n": 2
+    },
+    {
+     "k": "Livestock",
+     "n": 2
+    },
+    {
+     "k": "Food",
+     "n": 1
+    }
+   ],
+   "by_division": [
+    {
+     "k": "Barishal",
+     "n": 1
+    },
+    {
+     "k": "Dhaka",
+     "n": 1
+    }
+   ],
+   "by_platform": [
+    {
+     "k": "ILLUMINA",
+     "n": 3
+    },
+    {
+     "k": "OXFORD_NANOPORE",
+     "n": 2
+    }
+   ],
+   "by_material": [
+    {
+     "k": "blood",
+     "n": 3
+    },
+    {
+     "k": "cloacal swab",
+     "n": 2
+    },
+    {
+     "k": "meat/carcass",
+     "n": 1
+    }
+   ],
+   "by_record_type": [
+    {
+     "k": "sequenced",
+     "n": 8
+    }
+   ],
+   "top_projects": [
+    {
+     "accession": "PRJNA1130082",
+     "title": "Mock project PRJNA1130082",
+     "n": 3
+    },
+    {
+     "accession": "PRJNA714521",
+     "title": "Mock project PRJNA714521",
+     "n": 2
+    },
+    {
+     "accession": "PRJNA1121190",
+     "title": "Mock project PRJNA1121190",
+     "n": 2
+    },
+    {
+     "accession": "PRJNA845975",
+     "title": "Mock project PRJNA845975",
+     "n": 1
+    }
+   ]
+  },
+  {
+   "slug": "enterococcus-faecium",
+   "group": "Enterococcus faecium",
+   "name": "Enterococcus faecium",
+   "taxid": 1352,
+   "color": "#8A8F98",
+   "blurb": "A gut commensal and hospital pathogen. Vancomycin-resistant strains (VRE) are of particular concern.",
+   "counts": {
+    "samples": 4,
+    "with_reads": 4,
+    "with_assembly": 3,
+    "sequenced": 4,
+    "isolate_records": 0,
+    "usable": 3,
+    "with_ast": 0,
+    "with_publication": 0,
+    "with_district": 3,
+    "with_host": 3,
+    "with_niche": 4,
+    "with_year": 3
+   },
+   "by_year": [
+    {
+     "k": 2012,
+     "n": 2
+    },
+    {
+     "k": 2022,
+     "n": 1
+    }
+   ],
+   "by_niche": [
+    {
+     "k": "Human",
+     "n": 2
+    },
+    {
+     "k": "Environment",
+     "n": 1
+    },
+    {
+     "k": "Food",
+     "n": 1
+    }
+   ],
+   "by_division": [
+    {
+     "k": "Mymensingh",
+     "n": 1
+    },
+    {
+     "k": "Barishal",
+     "n": 1
+    },
+    {
+     "k": "Sylhet",
+     "n": 1
+    }
+   ],
+   "by_platform": [
+    {
+     "k": "ILLUMINA",
+     "n": 4
+    },
+    {
+     "k": "PACBIO_SMRT",
+     "n": 2
+    },
+    {
+     "k": "OXFORD_NANOPORE",
+     "n": 1
+    }
+   ],
+   "by_material": [
+    {
+     "k": "blood",
+     "n": 2
+    },
+    {
+     "k": "water",
+     "n": 1
+    },
+    {
+     "k": "meat/carcass",
+     "n": 1
+    }
+   ],
+   "by_record_type": [
+    {
+     "k": "sequenced",
+     "n": 4
+    }
+   ],
+   "top_projects": [
+    {
+     "accession": "PRJNA1121190",
+     "title": "Mock project PRJNA1121190",
+     "n": 1
+    },
+    {
+     "accession": "PRJNA714521",
+     "title": "Mock project PRJNA714521",
+     "n": 1
+    },
+    {
+     "accession": "PRJEB2000",
+     "title": "",
+     "n": 1
+    },
+    {
+     "accession": "PRJNA1130082",
+     "title": "Mock project PRJNA1130082",
+     "n": 1
+    }
+   ]
+  },
+  {
+   "slug": "staphylococcus-aureus",
+   "group": "Staphylococcus aureus",
+   "name": "Staphylococcus aureus",
+   "taxid": 1280,
+   "color": "#F0A22E",
+   "blurb": "Causes skin, bloodstream and device-related infections. Includes methicillin-resistant (MRSA) lineages.",
+   "counts": {
+    "samples": 25,
+    "with_reads": 21,
+    "with_assembly": 14,
+    "sequenced": 23,
+    "isolate_records": 2,
+    "usable": 18,
+    "with_ast": 0,
+    "with_publication": 3,
+    "with_district": 7,
+    "with_host": 15,
+    "with_niche": 22,
+    "with_year": 23
+   },
+   "by_year": [
+    {
+     "k": 2001,
+     "n": 1
+    },
+    {
+     "k": 2003,
+     "n": 3
+    },
+    {
+     "k": 2005,
+     "n": 4
+    },
+    {
+     "k": 2008,
+     "n": 2
+    },
+    {
+     "k": 2010,
+     "n": 1
+    },
+    {
+     "k": 2011,
+     "n": 1
+    },
+    {
+     "k": 2012,
+     "n": 1
+    },
+    {
+     "k": 2013,
+     "n": 3
+    },
+    {
+     "k": 2014,
+     "n": 1
+    },
+    {
+     "k": 2015,
+     "n": 1
+    },
+    {
+     "k": 2017,
+     "n": 1
+    },
+    {
+     "k": 2018,
+     "n": 1
+    },
+    {
+     "k": 2019,
+     "n": 1
+    },
+    {
+     "k": 2022,
+     "n": 2
+    }
+   ],
+   "by_niche": [
+    {
+     "k": "Environment",
+     "n": 7
+    },
+    {
+     "k": "Livestock",
+     "n": 7
+    },
+    {
+     "k": "Food",
+     "n": 5
+    },
+    {
+     "k": "Human",
+     "n": 3
+    },
+    {
+     "k": "Unknown",
+     "n": 3
+    }
+   ],
+   "by_division": [
+    {
+     "k": "Sylhet",
+     "n": 2
+    },
+    {
+     "k": "Dhaka",
+     "n": 2
+    },
+    {
+     "k": "Mymensingh",
+     "n": 2
+    },
+    {
+     "k": "Chattogram",
+     "n": 1
+    }
+   ],
+   "by_platform": [
+    {
+     "k": "ILLUMINA",
+     "n": 19
+    },
+    {
+     "k": "OXFORD_NANOPORE",
+     "n": 2
+    },
+    {
+     "k": "PACBIO_SMRT",
+     "n": 2
+    }
+   ],
+   "by_material": [
+    {
+     "k": "water",
+     "n": 7
+    },
+    {
+     "k": "cloacal swab",
+     "n": 7
+    },
+    {
+     "k": "meat/carcass",
+     "n": 5
+    },
+    {
+     "k": "blood",
+     "n": 3
+    }
+   ],
+   "by_record_type": [
+    {
+     "k": "sequenced",
+     "n": 23
+    },
+    {
+     "k": "isolate_record",
+     "n": 2
+    }
+   ],
+   "top_projects": [
+    {
+     "accession": "PRJNA714521",
+     "title": "Mock project PRJNA714521",
+     "n": 7
+    },
+    {
+     "accession": "PRJNA1121190",
+     "title": "Mock project PRJNA1121190",
+     "n": 5
+    },
+    {
+     "accession": "PRJNA845975",
+     "title": "Mock project PRJNA845975",
+     "n": 5
+    },
+    {
+     "accession": "PRJNA962904",
+     "title": "Mock project PRJNA962904",
+     "n": 3
+    },
+    {
+     "accession": "PRJNA1130082",
+     "title": "Mock project PRJNA1130082",
+     "n": 3
+    },
+    {
+     "accession": "PRJEB2000",
+     "title": "",
+     "n": 1
+    }
+   ]
+  },
+  {
+   "slug": "pseudomonas-aeruginosa",
+   "group": "Pseudomonas aeruginosa",
+   "name": "Pseudomonas aeruginosa",
+   "taxid": 287,
+   "color": "#6FAF3F",
+   "blurb": "An opportunistic pathogen found in hospitals and the environment, naturally resistant to many antibiotics.",
+   "counts": {
+    "samples": 10,
+    "with_reads": 8,
+    "with_assembly": 7,
+    "sequenced": 10,
+    "isolate_records": 0,
+    "usable": 9,
+    "with_ast": 0,
+    "with_publication": 1,
+    "with_district": 5,
+    "with_host": 8,
+    "with_niche": 10,
+    "with_year": 9
+   },
+   "by_year": [
+    {
+     "k": 2002,
+     "n": 2
+    },
+    {
+     "k": 2003,
+     "n": 1
+    },
+    {
+     "k": 2010,
+     "n": 1
+    },
+    {
+     "k": 2011,
+     "n": 1
+    },
+    {
+     "k": 2014,
+     "n": 1
+    },
+    {
+     "k": 2021,
+     "n": 1
+    },
+    {
+     "k": 2022,
+     "n": 1
+    },
+    {
+     "k": 2024,
+     "n": 1
+    }
+   ],
+   "by_niche": [
+    {
+     "k": "Human",
+     "n": 4
+    },
+    {
+     "k": "Food",
+     "n": 3
+    },
+    {
+     "k": "Environment",
+     "n": 2
+    },
+    {
+     "k": "Livestock",
+     "n": 1
+    }
+   ],
+   "by_division": [
+    {
+     "k": "Dhaka",
+     "n": 2
+    },
+    {
+     "k": "Sylhet",
+     "n": 1
+    },
+    {
+     "k": "Barishal",
+     "n": 1
+    },
+    {
+     "k": "Khulna",
+     "n": 1
+    }
+   ],
+   "by_platform": [
+    {
+     "k": "ILLUMINA",
+     "n": 5
+    },
+    {
+     "k": "OXFORD_NANOPORE",
+     "n": 2
+    },
+    {
+     "k": "PACBIO_SMRT",
+     "n": 1
+    }
+   ],
+   "by_material": [
+    {
+     "k": "blood",
+     "n": 4
+    },
+    {
+     "k": "meat/carcass",
+     "n": 3
+    },
+    {
+     "k": "water",
+     "n": 2
+    },
+    {
+     "k": "cloacal swab",
+     "n": 1
+    }
+   ],
+   "by_record_type": [
+    {
+     "k": "sequenced",
+     "n": 10
+    }
+   ],
+   "top_projects": [
+    {
+     "accession": "PRJEB2000",
+     "title": "",
+     "n": 3
+    },
+    {
+     "accession": "PRJNA1130082",
+     "title": "Mock project PRJNA1130082",
+     "n": 2
+    },
+    {
+     "accession": "PRJNA714521",
+     "title": "Mock project PRJNA714521",
+     "n": 1
+    },
+    {
+     "accession": "PRJNA1121190",
+     "title": "Mock project PRJNA1121190",
+     "n": 1
+    },
+    {
+     "accession": "PRJNA845975",
+     "title": "Mock project PRJNA845975",
+     "n": 1
+    },
+    {
+     "accession": "PRJNA962904",
+     "title": "Mock project PRJNA962904",
+     "n": 1
+    }
+   ]
+  },
+  {
+   "slug": "vibrio-cholerae",
+   "group": "Vibrio cholerae",
+   "name": "Vibrio cholerae",
+   "taxid": 666,
+   "color": "#B8A21A",
+   "blurb": "The cause of cholera, an acute diarrhoeal disease spread through contaminated water.",
+   "counts": {
+    "samples": 250,
+    "with_reads": 31,
+    "with_assembly": 20,
+    "sequenced": 36,
+    "isolate_records": 214,
+    "usable": 28,
+    "with_ast": 0,
+    "with_publication": 3,
+    "with_district": 61,
+    "with_host": 50,
+    "with_niche": 60,
+    "with_year": 240
+   },
+   "by_year": [
+    {
+     "k": 2001,
+     "n": 13
+    },
+    {
+     "k": 2002,
+     "n": 8
+    },
+    {
+     "k": 2003,
+     "n": 9
+    },
+    {
+     "k": 2004,
+     "n": 11
+    },
+    {
+     "k": 2005,
+     "n": 4
+    },
+    {
+     "k": 2006,
+     "n": 10
+    },
+    {
+     "k": 2007,
+     "n": 7
+    },
+    {
+     "k": 2008,
+     "n": 16
+    },
+    {
+     "k": 2009,
+     "n": 10
+    },
+    {
+     "k": 2010,
+     "n": 8
+    },
+    {
+     "k": 2011,
+     "n": 7
+    },
+    {
+     "k": 2012,
+     "n": 7
+    },
+    {
+     "k": 2013,
+     "n": 8
+    },
+    {
+     "k": 2014,
+     "n": 8
+    },
+    {
+     "k": 2015,
+     "n": 8
+    },
+    {
+     "k": 2016,
+     "n": 12
+    },
+    {
+     "k": 2017,
+     "n": 13
+    },
+    {
+     "k": 2018,
+     "n": 11
+    },
+    {
+     "k": 2019,
+     "n": 8
+    },
+    {
+     "k": 2020,
+     "n": 9
+    },
+    {
+     "k": 2021,
+     "n": 15
+    },
+    {
+     "k": 2022,
+     "n": 12
+    },
+    {
+     "k": 2023,
+     "n": 14
+    },
+    {
+     "k": 2024,
+     "n": 12
+    }
+   ],
+   "by_niche": [
+    {
+     "k": "Unknown",
+     "n": 190
+    },
+    {
+     "k": "Livestock",
+     "n": 21
+    },
+    {
+     "k": "Human",
+     "n": 16
+    },
+    {
+     "k": "Food",
+     "n": 13
+    },
+    {
+     "k": "Environment",
+     "n": 10
+    }
+   ],
+   "by_division": [
+    {
+     "k": "Chattogram",
+     "n": 18
+    },
+    {
+     "k": "Mymensingh",
+     "n": 12
+    },
+    {
+     "k": "Khulna",
+     "n": 10
+    },
+    {
+     "k": "Barishal",
+     "n": 9
+    },
+    {
+     "k": "Dhaka",
+     "n": 7
+    },
+    {
+     "k": "Sylhet",
+     "n": 5
+    }
+   ],
+   "by_platform": [
+    {
+     "k": "ILLUMINA",
+     "n": 21
+    },
+    {
+     "k": "PACBIO_SMRT",
+     "n": 10
+    },
+    {
+     "k": "OXFORD_NANOPORE",
+     "n": 9
+    }
+   ],
+   "by_material": [
+    {
+     "k": "cloacal swab",
+     "n": 21
+    },
+    {
+     "k": "blood",
+     "n": 16
+    },
+    {
+     "k": "meat/carcass",
+     "n": 13
+    },
+    {
+     "k": "water",
+     "n": 10
+    }
+   ],
+   "by_record_type": [
+    {
+     "k": "isolate_record",
+     "n": 214
+    },
+    {
+     "k": "sequenced",
+     "n": 36
+    }
+   ],
+   "top_projects": [
+    {
+     "accession": "PRJNA1121190",
+     "title": "Mock project PRJNA1121190",
+     "n": 9
+    },
+    {
+     "accession": "PRJNA1130082",
+     "title": "Mock project PRJNA1130082",
+     "n": 7
+    },
+    {
+     "accession": "PRJNA845975",
+     "title": "Mock project PRJNA845975",
+     "n": 7
+    },
+    {
+     "accession": "PRJEB2000",
+     "title": "",
+     "n": 5
+    },
+    {
+     "accession": "PRJNA714521",
+     "title": "Mock project PRJNA714521",
+     "n": 4
+    },
+    {
+     "accession": "PRJNA962904",
+     "title": "Mock project PRJNA962904",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "slug": "mammaliicoccus-sciuri",
+   "group": "Mammaliicoccus sciuri",
+   "name": "Mammaliicoccus sciuri",
+   "taxid": 1296,
+   "color": "#8A5A3C",
+   "blurb": "A staphylococcus-like bacterium (formerly Staphylococcus sciuri) found on animals and in food environments.",
+   "counts": {
+    "samples": 3,
+    "with_reads": 3,
+    "with_assembly": 2,
+    "sequenced": 3,
+    "isolate_records": 0,
+    "usable": 3,
+    "with_ast": 0,
+    "with_publication": 0,
+    "with_district": 1,
+    "with_host": 2,
+    "with_niche": 3,
+    "with_year": 3
+   },
+   "by_year": [
+    {
+     "k": 2002,
+     "n": 1
+    },
+    {
+     "k": 2010,
+     "n": 1
+    },
+    {
+     "k": 2024,
+     "n": 1
+    }
+   ],
+   "by_niche": [
+    {
+     "k": "Environment",
+     "n": 1
+    },
+    {
+     "k": "Livestock",
+     "n": 1
+    },
+    {
+     "k": "Human",
+     "n": 1
+    }
+   ],
+   "by_division": [
+    {
+     "k": "Mymensingh",
+     "n": 1
+    }
+   ],
+   "by_platform": [
+    {
+     "k": "ILLUMINA",
+     "n": 2
+    },
+    {
+     "k": "PACBIO_SMRT",
+     "n": 1
+    }
+   ],
+   "by_material": [
+    {
+     "k": "water",
+     "n": 1
+    },
+    {
+     "k": "cloacal swab",
+     "n": 1
+    },
+    {
+     "k": "blood",
+     "n": 1
+    }
+   ],
+   "by_record_type": [
+    {
+     "k": "sequenced",
+     "n": 3
+    }
+   ],
+   "top_projects": [
+    {
+     "accession": "PRJNA845975",
+     "title": "Mock project PRJNA845975",
+     "n": 2
+    },
+    {
+     "accession": "PRJEB2000",
+     "title": "",
+     "n": 1
+    }
+   ]
+  }
+ ],
+ "global": {
+  "by_year": [
+   {
+    "k": 2001,
+    "n": 23
+   },
+   {
+    "k": 2002,
+    "n": 24
+   },
+   {
+    "k": 2003,
+    "n": 25
+   },
+   {
+    "k": 2004,
+    "n": 28
+   },
+   {
+    "k": 2005,
+    "n": 23
+   },
+   {
+    "k": 2006,
+    "n": 23
+   },
+   {
+    "k": 2007,
+    "n": 24
+   },
+   {
+    "k": 2008,
+    "n": 38
+   },
+   {
+    "k": 2009,
+    "n": 17
+   },
+   {
+    "k": 2010,
+    "n": 19
+   },
+   {
+    "k": 2011,
+    "n": 16
+   },
+   {
+    "k": 2012,
+    "n": 19
+   },
+   {
+    "k": 2013,
+    "n": 19
+   },
+   {
+    "k": 2014,
+    "n": 16
+   },
+   {
+    "k": 2015,
+    "n": 21
+   },
+   {
+    "k": 2016,
+    "n": 23
+   },
+   {
+    "k": 2017,
+    "n": 27
+   },
+   {
+    "k": 2018,
+    "n": 17
+   },
+   {
+    "k": 2019,
+    "n": 16
+   },
+   {
+    "k": 2020,
+    "n": 22
+   },
+   {
+    "k": 2021,
+    "n": 31
+   },
+   {
+    "k": 2022,
+    "n": 24
+   },
+   {
+    "k": 2023,
+    "n": 25
+   },
+   {
+    "k": 2024,
+    "n": 24
+   }
+  ],
+  "by_niche": [
+   {
+    "k": "Unknown",
+    "n": 227
+   },
+   {
+    "k": "Livestock",
+    "n": 96
+   },
+   {
+    "k": "Human",
+    "n": 87
+   },
+   {
+    "k": "Environment",
+    "n": 87
+   },
+   {
+    "k": "Food",
+    "n": 73
+   }
+  ],
+  "by_division": [
+   {
+    "k": "Chattogram",
+    "n": 26
+   },
+   {
+    "k": "Barishal",
+    "n": 24
+   },
+   {
+    "k": "Mymensingh",
+    "n": 24
+   },
+   {
+    "k": "Sylhet",
+    "n": 21
+   },
+   {
+    "k": "Dhaka",
+    "n": 20
+   },
+   {
+    "k": "Khulna",
+    "n": 19
+   }
+  ],
+  "by_platform": [
+   {
+    "k": "ILLUMINA",
+    "n": 209
+   },
+   {
+    "k": "OXFORD_NANOPORE",
+    "n": 88
+   },
+   {
+    "k": "PACBIO_SMRT",
+    "n": 69
+   }
+  ],
+  "by_material": [
+   {
+    "k": "cloacal swab",
+    "n": 96
+   },
+   {
+    "k": "blood",
+    "n": 87
+   },
+   {
+    "k": "water",
+    "n": 87
+   },
+   {
+    "k": "meat/carcass",
+    "n": 73
+   }
+  ],
+  "by_record_type": [
+   {
+    "k": "sequenced",
+    "n": 336
+   },
+   {
+    "k": "isolate_record",
+    "n": 234
+   }
+  ],
+  "top_projects": [
+   {
+    "accession": "PRJNA714521",
+    "title": "Mock project PRJNA714521",
+    "n": 68,
+    "n_with_reads": 50,
+    "n_with_assembly": 36
+   },
+   {
+    "accession": "PRJNA962904",
+    "title": "Mock project PRJNA962904",
+    "n": 64,
+    "n_with_reads": 54,
+    "n_with_assembly": 42
+   },
+   {
+    "accession": "PRJNA1130082",
+    "title": "Mock project PRJNA1130082",
+    "n": 61,
+    "n_with_reads": 48,
+    "n_with_assembly": 42
+   },
+   {
+    "accession": "PRJEB2000",
+    "title": "",
+    "n": 55,
+    "n_with_reads": 55,
+    "n_with_assembly": 29
+   },
+   {
+    "accession": "PRJNA1121190",
+    "title": "Mock project PRJNA1121190",
+    "n": 51,
+    "n_with_reads": 45,
+    "n_with_assembly": 31
+   },
+   {
+    "accession": "PRJNA845975",
+    "title": "Mock project PRJNA845975",
+    "n": 48,
+    "n_with_reads": 36,
+    "n_with_assembly": 35
+   }
+  ]
+ },
+ "facets": {
+  "niches": [
+   {
+    "k": "Unknown",
+    "n": 227
+   },
+   {
+    "k": "Livestock",
+    "n": 96
+   },
+   {
+    "k": "Human",
+    "n": 87
+   },
+   {
+    "k": "Environment",
+    "n": 87
+   },
+   {
+    "k": "Food",
+    "n": 73
+   }
+  ],
+  "divisions": [
+   {
+    "k": "Chattogram",
+    "n": 26
+   },
+   {
+    "k": "Barishal",
+    "n": 24
+   },
+   {
+    "k": "Mymensingh",
+    "n": 24
+   },
+   {
+    "k": "Sylhet",
+    "n": 21
+   },
+   {
+    "k": "Dhaka",
+    "n": 20
+   },
+   {
+    "k": "Khulna",
+    "n": 19
+   }
+  ],
+  "districts": [
+   {
+    "k": "Chattogram",
+    "n": 26
+   },
+   {
+    "k": "Pirojpur",
+    "n": 24
+   },
+   {
+    "k": "Mymensingh",
+    "n": 24
+   },
+   {
+    "k": "Sylhet",
+    "n": 21
+   },
+   {
+    "k": "Dhaka",
+    "n": 20
+   },
+   {
+    "k": "Khulna",
+    "n": 19
+   }
+  ],
+  "platforms": [
+   {
+    "k": "ILLUMINA",
+    "n": 209
+   },
+   {
+    "k": "OXFORD_NANOPORE",
+    "n": 88
+   },
+   {
+    "k": "PACBIO_SMRT",
+    "n": 69
+   }
+  ],
+  "materials": [
+   {
+    "k": "cloacal swab",
+    "n": 96
+   },
+   {
+    "k": "blood",
+    "n": 87
+   },
+   {
+    "k": "water",
+    "n": 87
+   },
+   {
+    "k": "meat/carcass",
+    "n": 73
+   }
+  ],
+  "record_types": [
+   {
+    "k": "sequenced",
+    "n": 336
+   },
+   {
+    "k": "isolate_record",
+    "n": 234
+   }
+  ],
+  "year_min": 2001,
+  "year_max": 2024
+ }
+}

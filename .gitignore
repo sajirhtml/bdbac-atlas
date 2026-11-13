@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+site_data/
+ncbi_bangladesh/
+*.pyc
+__pycache__/
